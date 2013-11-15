@@ -1,4 +1,4 @@
 python.games
 ============
 
-Python games (pygame)
+Game software written in Python (mostly hack&amp;slash and platform)
